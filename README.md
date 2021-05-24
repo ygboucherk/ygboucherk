@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hey there 👋
+
+I'm Yanis, a developper from France (there isn't only baguette and wine there xD)
+
+Favourite languages : Solidity, python
+How to reach me ? @ygboucherk on instagram and telegram, and yanis#3059 on discord (I will try replying to DMs lol)
 
 <!--
-**ygboucherk/ygboucherk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
