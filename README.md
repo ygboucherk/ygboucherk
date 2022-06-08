@@ -2,7 +2,7 @@
 
 I'm Yanis, a developper from France (there isn't only baguette and wine there xD)
 
-Favourite languages : Solidity, python
+Favorite languages : Solidity, python
 
 Fun fact : I dont say "CPU overheating" but "comfortable heating keyboard"
 
